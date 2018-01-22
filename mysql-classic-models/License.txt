@@ -1,0 +1,2 @@
+
+https://downloads.mysql.com/docs/licenses/mysqld-5.7-gpl-en.pdf
