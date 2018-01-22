@@ -1,0 +1,43 @@
+{
+    "Admin": {
+        "Lock": true,
+        "Unlock": true,
+        "Edit Data": true,
+        "Edit UDT Columns": true,
+        "Execute tests": true,
+        "Admin Menu": true,
+        "Delete Unlocked UDTs": true,
+        "Edit Expected Results": true
+    },
+    "Developer": {
+        "Edit Data": true,
+        "Lock": true,
+        "Execute tests": true
+    },
+    "Lead Developer": {
+        "Edit UDT Columns": true,
+        "Edit Data": true,
+        "Lock": true,
+        "Execute tests": true,
+        "Delete Unlocked UDTs": true,
+        "Edit Expected Results": true
+    },
+    "Manager": {
+        "Unlock": true,
+        "Execute tests": true,
+        "Edit Expected Results": true
+    },
+    "Tester": {
+        "Lock": true,
+        "Edit Data": true,
+
+        "Execute tests": true
+    },
+    "Guest": {
+        "Execute tests": true
+    },
+    "Business": {
+        "Edit Expected Results": true,
+        "Execute tests": true
+    }
+}
